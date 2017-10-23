@@ -15,7 +15,7 @@ public class Triangulo
    
    public enum Resposta 
    {
-		EQUILATERO, ISOCELES, ESCALENO, NAOTRIANGULO, TRIANGULO;
+		EQUILATERO, ISOCELES, ESCALENO, NAOTRIANGULO;
    }
    
    public static Resposta verificaTipoTriangulo(int a, int b, int c){
